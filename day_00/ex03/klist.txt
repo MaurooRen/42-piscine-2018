@@ -1,0 +1,7 @@
+Credentials cache: API:35987
+        Principal: mrengifo@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 22 17:37:19 2018  Oct 23 03:37:08 2018  krbtgt/42.US.ORG@42.US.ORG
+Oct 22 17:37:22 2018  Oct 23 03:37:08 2018  ldap/ldap-master.42.us.org@42.US.ORG
+Oct 22 17:59:42 2018  Oct 23 03:37:08 2018  host/vgs-fn1.42.us.org@42.US.ORG
